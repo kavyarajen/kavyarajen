@@ -1,12 +1,6 @@
-[Google Images](https://imgur.com/a/jUSNAjn.gif)
 
 ## Hi there, I'm Kavyarajendran! 👋
 
 I'm passionate about software development and love diving into new technologies. Here's a bit about what I'm up to:
 
-🔭 I’m currently working on honing my skills in Python and Java.
-🌱 I’m currently learning about web development frameworks like Django and Flask.
-👯 I’m looking to collaborate on projects that involve data analysis and backend development.
-💬 Ask me about my journey into tech, my projects, or anything else!
-📫 You can reach me via email at kavyaarajen29@gmail.com.
-📷 Fun fact: I'm also a digital creator, sharing videos and photos on Instagram! 
+Currently, I'm focusing on Python and Java skills and exploring web development frameworks like Django and Flask. I'm keen on collaborating on data analysis and backend development projects. Feel free to reach me at kavyaarajen29@gmail.com. Fun fact: I'm also a digital creator, sharing content on Instagram!
