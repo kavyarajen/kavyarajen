@@ -7,4 +7,4 @@
 I'm passionate about software development and love diving into new technologies :heart: !!
 
 ### Connect Me In
-Email: kavyaarajen29@gmail.com
+Email: kavyarajendran.ofcl@gmail.com
