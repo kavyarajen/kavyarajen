@@ -1,4 +1,4 @@
-[Google Images](https://images.app.goo.gl/LELfzgJpFcKjQ1LP8)
+[Google Images](https://imgur.com/a/jUSNAjn.gif)
 
 ## Hi there, I'm Kavyarajendran! 👋
 
