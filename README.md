@@ -1,6 +1,9 @@
-
+<div align="center">
+<img align="center" width="75%" height = "75%" src="https://images.app.goo.gl/kxXw1sKwf8pQcoLS7.gif?raw=true" alt="cover" />
+</div>
 ## Hi there, I'm Kavyarajendran! 👋
 
-I'm passionate about software development and love diving into new technologies. Here's a bit about what I'm up to:
+I'm passionate about software development and love diving into new technologies :heart: !!
 
-Currently, I'm focusing on Python and Java skills and exploring web development frameworks like Django and Flask. I'm keen on collaborating on data analysis and backend development projects. Feel free to reach me at kavyaarajen29@gmail.com. Fun fact: I'm also a digital creator, sharing content on Instagram!
+### Connect me in
+[Email](kavyaarajen29@gmail.com)
